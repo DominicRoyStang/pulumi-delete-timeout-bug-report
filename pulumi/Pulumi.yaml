@@ -1,0 +1,6 @@
+name: pulumi-bug-report
+description: Pulumi bug report
+runtime:
+  name: nodejs
+  options:
+    typescript: false # Run pulumi on the compiled javascript code in the dist/ folder
